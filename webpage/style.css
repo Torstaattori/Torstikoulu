@@ -1,0 +1,21 @@
+.header {
+  background-color: white;
+  text-align: center;
+  font-size: 30px;
+}
+.about-me {
+  font-size: 22px;
+  opacity: 0.75;
+}
+.title {
+  font-weight: bold;
+  font-size: 30px;
+}
+h1 {
+  color:crimson;
+}
+body {
+  font-family: Georgia;
+  background-image: url("kuva1.png");
+  text-align: center;
+}
